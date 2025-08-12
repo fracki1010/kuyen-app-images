@@ -1,5 +1,4 @@
-export const travels = {
-  travelsPending: [
+[
     {
       id: 1,
       title: "Cerro Punta Negra",
@@ -236,5 +235,5 @@ export const travels = {
       ],
     },
   ],
-};
+
 
