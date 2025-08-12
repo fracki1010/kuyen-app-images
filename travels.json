@@ -1,0 +1,237 @@
+[
+    {
+      id: 1,
+      title: "Cerro Punta Negra",
+      images: [
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953024/punta-negra-1_x0b2hp.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953025/punta-negra-2_avi5py.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953025/punta-negra-3_a5bofn.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953027/punta-negra-4_jjwobz.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953027/punta-negra-5_ernfcm.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953028/punta-negra-6_lwbpbq.jpg",
+      ],
+      duration: '2 dias',
+      height: '4 350 msnm',
+      level: 'Intermedio',
+      ranking: 3.5,
+      steps: [
+        {
+          step: "Encuentro en el Refugio Scaravelli",
+          time: "7:00 am",
+          icon: "DirectionsBus",
+          description:
+            "Nos reunimos en el Refugio Scaravelli, ubicado al pie del Cerro Punta Negra, para las presentaciones y una breve charla de seguridad.",
+        },
+        {
+          step: "Inicio del Ascenso",
+          time: "8:00 am",
+          icon: "DirectionsWalk",
+          description:
+            "Comenzamos la caminata siguiendo la ruta que conduce al Portillo Argentino desde el Manzano Histórico, disfrutando de vistas panorámicas.",
+        },
+        {
+          step: "Descanso en el Filo",
+          time: "11:00 am",
+          icon: "Terrain",
+          description:
+            "Tomamos un descanso en el filo de la montaña para hidratarnos y apreciar las vistas del Valle de Uco.",
+        },
+        {
+          step: "Cumbre del Cerro Punta Negra",
+          time: "1:00 pm",
+          icon: "Flag",
+          description:
+            "Alcanzamos la cumbre a 4,400 msnm, donde celebramos el logro y tomamos fotografías del paisaje circundante.",
+        },
+        {
+          step: "Descenso al Refugio",
+          time: "2:00 pm",
+          icon: "DirectionsWalk",
+          description:
+            "Iniciamos el descenso siguiendo una ruta alternativa que nos lleva de regreso al Refugio Scaravelli.",
+        },
+        {
+          step: "Fin de la Expedición",
+          time: "5:00 pm",
+          icon: "Home",
+          description:
+            "Concluimos la expedición en el refugio, compartiendo experiencias y despidiéndonos del grupo.",
+        },
+      ],
+      dates: [
+        {
+          date: "15 MAR",
+          description:
+            "Primera salida de la temporada de otoño, ideal para disfrutar de temperaturas moderadas y cielos despejados.",
+        },
+        {
+          date: "29 MAR",
+          description:
+            "Segunda expedición con posibilidad de avistar fauna local y apreciar la flora en transición estacional.",
+        },
+        {
+          date: "12 ABR",
+          description:
+            "Última salida antes de la llegada del invierno, recomendada para montañistas con experiencia en climas fríos.",
+        },
+      ],
+    },
+    {
+      id:2,
+      title: "Laguna del Campanario",
+      images: [
+        // "https://mendozatours.com.ar/wp-content/uploads/2024/06/Cabalgata-montana-y-asado-en-Tupungato-_-Lauke-Tours-scaled-e1717590428505.jpg",
+        // "https://mendozatours.com.ar/wp-content/uploads/2024/06/Cabalgata-montana-y-asado-en-Tupungato-Regresando-de-la-cabalgata-_-Lauke-Tours.jpg",
+        // "https://mendozatours.com.ar/wp-content/uploads/2024/06/Cabalgata-montana-y-asado-en-Tupungato-Montana-nevada-_-Lauke-Tours-scaled.jpg",
+        // "https://mendozatours.com.ar/wp-content/uploads/2024/06/Cabalgata-montana-y-asado-en-Tupungato-Comenzando-la-excursion-_-Lauke-Tours-scaled.jpg",
+        // "https://mendozatours.com.ar/wp-content/uploads/2024/06/Cabalgata-montana-y-asado-en-Tupungato-Casa-Los-Coirones-_-Lauke-Tours-scaled.jpg",
+        // "https://mendozatours.com.ar/wp-content/uploads/2024/06/Cabalgata-montana-y-asado-en-Tupungato-Cabalgata-grupal-_-Lauke-Tours-scaled.jpg",
+
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953033/laguna-campanario-1_myunhr.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953038/laguna-campanario-2_zdpf6m.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953038/laguna-campanario-3_x3sytp.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953039/laguna-campanario-4_krufeh.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953040/laguna-campanario-5_iwleec.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953042/laguna-campanario-6_fp1bgh.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953042/laguna-campanario-7_zuneai.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953043/laguna-campanario-8_bcdz39.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953044/laguna-campanario-9_zerd6q.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953034/laguna-campanario-10_ynkwhz.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953035/laguna-campanario-11_ysvppt.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953036/laguna-campanario-12_ljbsmd.jpg",
+    
+        
+      ],
+      duration: '3 dia',
+      height: '3 000 msnm',
+      level: 'Intermedio',
+      ranking: 4.5,
+      steps: [
+        {
+          step: "Salida desde el punto de encuentro",
+          time: "5:30 am",
+          icon: "DirectionsBus",
+          description:
+            "Nos encontramos en la terminal de buses de Mendoza y partimos rumbo a la base de la montaña.",
+        },
+        {
+          step: "Inicio de la caminata",
+          time: "8:00 am",
+          icon: "DirectionsWalk",
+          description:
+            "Comenzamos la ascensión por senderos rodeados de paisajes increíbles, con vistas panorámicas únicas.",
+        },
+        {
+          step: "Parada para almuerzo",
+          time: "12:30 pm",
+          icon: "Restaurant",
+          description:
+            "Hacemos una pausa en un mirador natural para disfrutar de un almuerzo liviano y reponer energías.",
+        },
+        {
+          step: "Llegada al refugio",
+          time: "4:00 pm",
+          icon: "Cottage",
+          description:
+            "Después de una jornada de trekking, llegamos al refugio de montaña donde descansaremos.",
+        },
+        {
+          step: "Cena y fogata",
+          time: "7:00 pm",
+          icon: "LocalFireDepartment",
+          description:
+            "Compartimos una cena rústica y disfrutamos de una noche estrellada en la montaña.",
+        },
+      ],
+      dates: [
+        {
+          date: "15 FEB",
+          description:
+            "Primer grupo en salir. Clima ideal para caminatas largas con vistas despejadas de los picos nevados.",
+        },
+        {
+          date: "02 MAR",
+          description:
+            "Salida especial con guía de montaña experto. Se esperan condiciones favorables y buen tiempo.",
+        },
+        {
+          date: "18 MAR",
+          description:
+            "Última expedición de la temporada de verano. Se recomienda ropa de abrigo por posibles temperaturas bajas.",
+        },
+      ],
+    },
+    {
+      id:3,
+      title: "Cruce de los Andes",
+      images: [
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952991/cruce-los-andes-1_h8ljei.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952995/cruce-los-andes-2_a8ykd0.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952996/cruce-los-andes-3_ykrpzp.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952997/cruce-los-andes-4_jmulqk.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952997/cruce-los-andes-5_ofjjoi.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952998/cruce-los-andes-6_v5dmab.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952998/cruce-los-andes-7_wayeio.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952999/cruce-los-andes-8_zbcij7.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754953000/cruce-los-andes-9_ka0yjv.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952992/cruce-los-andes-10_dez3tz.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952992/cruce-los-andes-11_y1wdcw.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952993/cruce-los-andes-12_bhuibb.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952994/cruce-los-andes-13_cc5lsf.jpg",
+        "https://res.cloudinary.com/dgfg57cku/image/upload/v1754952995/cruce-los-andes-14_e5unaq.jpg",
+
+
+      ],
+      duration: '3 dias',
+      height: '3 500 msnm',
+      level: 'Intermedio',
+      ranking: 4,
+      steps: [
+        {
+          step: "Comienzo del viaje",
+          time: "6:00 am",
+          icon: "DirectionsBus",
+          description:
+            "Comienza con el traslado (opcional) Viajas desde _______ hasta _________, donde embarcarás para cruzar ________",
+        },
+        {
+          step: "Formacion de grupo",
+          time: "9:30 am",
+          icon: "Group",
+          description:
+            "Dolore labore Lorem ut consectetur eu nisi tempor irure eiusmod mollit ex.",
+        },
+        {
+          step: "Caminata",
+          time: "11:00 am",
+          icon: "DirectionsWalk",
+          description:
+            "Dolor aute amet incididunt labore laborum cupidatat et qui.",
+        },
+        {
+          step: "Alcance refugio",
+          time: "4:00 pm",
+          icon: "Cottage",
+          description:
+            "Dolor aute amet incididunt labore laborum cupidatat et qui.",
+        },
+      ],
+      dates: [
+        {
+          date: "27 FEB",
+          description:
+            "Officia id incididunt cillum ad. Consequat labore duis nulla velit sint nisi reprehenderit velit sit enim deserunt do id eiusmod. Ut tempor irure elit sint dolore cillum. Commodo ad ex quis esse pariatur Lorem velit veniam cillum sint commodo dolore dolore.",
+        },
+        {
+          date: "10 MAR",
+          description:
+            "Labore dolore et velit ex fugiat in aliqua mollit eu sit reprehenderit consectetur. Ut incididunt aliqua laboris voluptate aliquip labore ex. Aliquip pariatur proident cillum velit ad Lorem sit velit commodo proident qui ut elit. Enim dolore do reprehenderit tempor eiusmod fugiat labore aute amet laborum. Qui excepteur occaecat ea exercitation duis. Aliqua aute enim mollit exercitation nulla pariatur do minim.",
+        },
+        {
+          date: "20 MAR",
+          description:
+            "Ea dolore proident qui nisi et aliquip consequat velit. Enim reprehenderit do ex ad esse aute. Qui nulla nostrud proident sint sit laborum laborum exercitation ullamco amet Lorem.",
+        },
+      ],
+    },
+  ],
